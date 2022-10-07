@@ -1,0 +1,7 @@
+-Nest
+-Docker
+-Swagger
+-Rest API
+-TypeScript
+-PostgreSQL
+-JWT Authorization
